@@ -1,0 +1,5 @@
+CMU-MET52;MET_52_Noncompliant.java;13;METHOD_INVOCATION;java.lang.Object:clone()
+CMU-MET52;MET_52_Noncompliant.java;14;METHOD_INVOCATION;java.lang.Object:clone()
+CMU-MET52;MET_52_Noncompliant.java;15;METHOD_INVOCATION;java.lang.Object:clone()
+CMU-MET52;MET_52_Noncompliant.java;19;METHOD_INVOCATION;java.lang.Object:clone()
+CMU-MET52;MET_52_Noncompliant.java;23;METHOD_INVOCATION;java.lang.Object:clone()
